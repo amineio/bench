@@ -1,0 +1,6 @@
+{
+  "name": "Language Abstraction & Adoption Explorer",
+  "description": "Interactive dashboard exploring programming languages from low-level to high-level abstraction bands and developer adoption from the 2025 Stack Overflow Developer Survey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
